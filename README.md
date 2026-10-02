@@ -1,16 +1,25 @@
-## Hi there 👋
+# Abdul Rafay
 
-<!--
-**AbdulRafay104/AbdulRafay104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a software engineering student at UET with a passion for building
+real applications and telling stories through video. I work with C# and
+SQL Server on academic and personal projects.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+| Category  | Technologies                    |
+|-----------|---------------------------------|
+| Languages | C#, SQL                         |
+| Database  | SQL Server                      |
+| Tools     | Git, GitHub, VS Code            |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### Hirely (JobConnect)
+A LinkedIn-style desktop application built with C# WinForms and a
+SQL Server backend.
+
+## Education
+BS Software Engineering, UET, [2025]
+
+## Contact
+- Email: abdulrafaynisar264@gmail.com
+- GitHub: [@AbdulRafay104](https://github.com/AbdulRafay104)
