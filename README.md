@@ -18,7 +18,7 @@ A LinkedIn-style desktop application built with C# WinForms and a
 SQL Server backend.
 
 ## Education
-BS Software Engineering, UET, [2025]
+BS Software Engineering, UET, 2025
 
 ## Contact
 - Email: abdulrafaynisar264@gmail.com
